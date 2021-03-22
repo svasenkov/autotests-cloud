@@ -1,0 +1,8 @@
+{
+  "name": "autotests.cloud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "7adc7cb6"
+}
